@@ -15,6 +15,13 @@ vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?
 
 
 
+vless://29f55cea-4038-402c-a496-2e8ae2d8e660@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪-hamedp71
+vless://74d03a21-f000-4b08-9dd8-440f0e4d6622@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇸🇪-hamedp71
+vless://ff288332-d2d2-473d-9b30-b6ab97f27b90@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇨🇦-hamedp71
+vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇫🇷-hamedp71
+
+
+
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
